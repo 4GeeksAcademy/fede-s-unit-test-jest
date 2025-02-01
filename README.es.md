@@ -8,7 +8,7 @@ La mayoría de los desarrolladores hoy en día no solo deben escribir código, s
 
 Hoy usaremos el [framework de Jest](https://jestjs.io/) para crear nuestras primeras pruebas unitarias.
 
-## 🌱 Cómo comenzar este proyecto
+## 🌱 Como comenzar este proyecto
 
 Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
 
