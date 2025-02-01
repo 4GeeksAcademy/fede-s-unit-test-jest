@@ -8,6 +8,7 @@ Hay muy buenas alternativas para crear pruebas unitarias usando JavaScript o Nod
 
 Hemos decidido usar Jest porque actualmente es el más popular, con mayor documentación y el mejor integrado con React.js.
 
+
 ## Gestor de Paquetes
 
 La librería de Jest se puede descargar en tu proyecto a través de [node package manager (npm)](https://npmjs.com), npm es el "gestor de paquetes" más popular en JavaScript/Node.
